@@ -1,8 +1,8 @@
-# ASUS-ROG-Z790I-Hackintosh 更新中（本周内更新完成）
+# ASUS-ROG-Z790I-Hackintosh 
 
 # B站 https://www.bilibili.com/video/BV1zY411i7jD
 
-油管 https://www.youtube.com/watch?v=s8yUz-JCrXA
+# 油管 https://www.youtube.com/watch?v=s8yUz-JCrXA
 
 
 # 基本硬件配置清单
