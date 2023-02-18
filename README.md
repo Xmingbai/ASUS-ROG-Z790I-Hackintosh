@@ -1,5 +1,8 @@
 # ASUS-ROG-Z790I-Hackintosh 更新中（本周内更新完成）
 
+# B站 https://www.bilibili.com/video/BV1zY411i7jD
+
+油管 https://www.youtube.com/watch?v=s8yUz-JCrXA
 
 
 # 基本硬件配置清单
@@ -20,7 +23,17 @@ Wi-Fi：intel AX211 更换为 BCM94360NG
 
 散热：EK240 水冷
 
-# 系统及跑分截图
+# 完善程度
 
+硬件驱动情况 ，2.5G有线网卡、WiFi、蓝牙、声卡正常驱动、雷电半驱动
+
+支持CPU正常睿频，睡眠&唤醒
+
+# 系统及跑分截图
   
-![](https://github.com/Xmingbai/asrock-Z490M-itx-hackintosh/blob/main/USBports.png)
+![](https://github.com/Xmingbai/ASUS-ROG-Z790I-Hackintosh/blob/main/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png)
+![](https://github.com/Xmingbai/ASUS-ROG-Z790I-Hackintosh/blob/main/Geekbench%20CPU.png)
+![](https://github.com/Xmingbai/ASUS-ROG-Z790I-Hackintosh/blob/main/Geekbench%20GPU.png)
+![](https://github.com/Xmingbai/ASUS-ROG-Z790I-Hackintosh/blob/main/R23.png)
+![](https://github.com/Xmingbai/ASUS-ROG-Z790I-Hackintosh/blob/main/Novabench.png)
+
